@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+h1,h3,h4{
+    text-align: center;
+}
+
+#startdiv{
+    width: 60%;
+    margin:auto;
+    padding: 10px;
+    box-shadow: 2px 2px 1px #ccc ;
+}
+
+#startdiv div{
+    width: 80%;
+    margin: auto;
+}
+
+button{
+    width: 32.5%;
+    padding: 6px;
+    margin: 10px auto;
+}
+
+#start{
+    width: 100%;
+}
+
+.success{
+    color:green;
+}
+
+.danger{
+    color:red;
+}
